@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "2",
+  "Image": {
+    "Name": "saigon32/micro_docker",
+    "Update": "true"
+  },
+  "Ports": [
+   {
+     "ContainerPort": "3000"
+   }
+ ]
+}
